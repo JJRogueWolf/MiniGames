@@ -11,6 +11,22 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+/Tic_Tac_Toe/[Ll]ibrary/
+/Tic_Tac_Toe/[Tt]emp/
+/Tic_Tac_Toe/[Oo]bj/
+/Tic_Tac_Toe/[Bb]uild/
+/Tic_Tac_Toe/[Bb]uilds/
+/Tic_Tac_Toe/[Ll]ogs/
+/Tic_Tac_Toe/[Uu]ser[Ss]ettings/
+
+/Tic_Tac_Toe/Tic_Tac_Toe/[Ll]ibrary/
+/Tic_Tac_Toe/Tic_Tac_Toe/[Tt]emp/
+/Tic_Tac_Toe/Tic_Tac_Toe/[Oo]bj/
+/Tic_Tac_Toe/Tic_Tac_Toe/[Bb]uild/
+/Tic_Tac_Toe/Tic_Tac_Toe/[Bb]uilds/
+/Tic_Tac_Toe/Tic_Tac_Toe/[Ll]ogs/
+/Tic_Tac_Toe/Tic_Tac_Toe/[Uu]ser[Ss]ettings/
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
